@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1052669021120",
+    "project_id": "rullvpn",
+    "storage_bucket": "rullvpn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052669021120:android:09c9d3abfa68e9494e5625",
+        "android_client_info": {
+          "package_name": "com.rull.rullvpn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEBlUaLw4_fujfTWuMfn5L_DBt-P2GUEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

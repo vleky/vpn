@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="app_name" translatable="false">MyRules VPN</string>
+
+   <!-- Info below is used is the included Privacy Policy and Terms of Service -->
+   <!-- Support email  -->
+   <string name="support_email" translatable="false">antonseries25@gmail.com</string>
+
+   <!-- Developer or company name -->
+   <string name="developer_name" translatable="false">Anton Kalashnikov</string>
+
+   <!-- Your website -->
+   <string name="website" translatable="false">t.me/vleky</string>
+</resources>
